@@ -1,0 +1,9 @@
+customer,Weight(in kgs),income(in k),credit cards,class(target)
+George,35,35,3,no
+Rachel,22,50,2,yes
+Steve,63,200,1,no
+Tom,59,170,1,no
+Anne,25,40,4,yes
+John,37,50,2,yes
+Marc,55,150,1,no
+Nick,36,55,2,yes
